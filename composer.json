@@ -1,0 +1,12 @@
+{
+    "name": "enriquesegura/bowling-php",
+    "description": "Bowling game kata",
+    "require-dev": {
+        "phpunit/phpunit": "4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "KataBowling\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<phpunit bootstrap="vendor/autoload.php"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true">
+    <testsuites>
+        <testsuite name="bowlingGame">
+            <directory>test</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
