@@ -6,7 +6,7 @@
   * A game has ten frames.
   * Each frame has until 2 rolls to knock down all the pins.
   * The score of the game will be defined in base of the result of all the rolls.
-  * Format of a roll in a game result.
+  * Format of a roll result.
     * We are using an string to show the result of each roll.
     * 'X': strike (10 pins in the first roll).
     * '/': spare (10 pins in 2 rolls).
